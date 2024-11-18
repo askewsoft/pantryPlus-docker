@@ -6,7 +6,7 @@ Separate docker compose configuration files for each tier in the architecture.
 
 ## Running
 
-> docker compose --profile mysql up
+* `docker compose --profile mysql up`
 
 ## Access
 
